@@ -1,0 +1,5 @@
+Sources/__pycache__
+Sources/plotCSV-python3/__pycache__
+evol_arbre.csv
+evol_pop.csv
+*.pdf
